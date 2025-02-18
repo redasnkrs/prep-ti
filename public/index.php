@@ -3,10 +3,10 @@
 
 if (isset($_GET['p'])) {
   switch ($_GET['p']) {
-    case "apropos":
+    case "aboutme":
       include "../templates/aproposView.php";
       break;
-    case "histoire":
+    case "history":
       include "../templates/histoireView.php";
       break;
     case "contact":
@@ -14,6 +14,7 @@ if (isset($_GET['p'])) {
       break;
     default:
       include "../templates/erreur404View.php";
+      break;
   }
 } else {
   //  Default view : 
