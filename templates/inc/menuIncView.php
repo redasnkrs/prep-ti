@@ -1,3 +1,5 @@
+<!-- templates\inc\menuIncView.php -->
+
 <ul>
   <li><a href="./">Acceuil</a></li>
   <li><a href="./?p=aboutme">Appropos</a></li>

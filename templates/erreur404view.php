@@ -1,3 +1,4 @@
+<!-- templates\erreur404view.php -->
 <!DOCTYPE html>
 <html lang="en">
 

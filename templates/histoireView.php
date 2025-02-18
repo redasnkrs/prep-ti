@@ -1,3 +1,4 @@
+<!-- templates\histoireView.php -->
 <!DOCTYPE html>
 <html lang="en">
 

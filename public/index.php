@@ -1,6 +1,8 @@
 <?php
 
+// public\index.php
 
+// Direction des liens 
 if (isset($_GET['p'])) {
   switch ($_GET['p']) {
     case "aboutme":

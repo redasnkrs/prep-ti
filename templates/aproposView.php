@@ -1,3 +1,5 @@
+<!-- templates\aproposView.php -->
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -13,7 +15,7 @@
     <?php include "inc/menuIncView.php" ?>
   </nav>
   <section class="top-page">
-    <h1>Ceci est la page Apropos</h1>
+    <h1>Ceci est la page A Propos</h1>
     <h2>Scrollez pour voir le contenue </h2>
   </section>
   <section class="avatar">
