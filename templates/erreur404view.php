@@ -15,6 +15,9 @@
   <section class="top-page">
     <h1>ERREUR 404</h1>
   </section>
+  <footer>
+    <?php include "inc/footerIncView.php" ?>
+  </footer>
 </body>
 
 </html>

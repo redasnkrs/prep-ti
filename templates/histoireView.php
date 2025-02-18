@@ -16,6 +16,16 @@
     <h1>Histoire ?</h1>
     <h2>J'ai pas d'idée d'introduction..</h2>
   </section>
+  <section class="hist-img">
+    <img src="../public/img/images (1).jfif" alt="">
+    <img src="../public//img/images.jfif" alt="">
+    <img src="../public/img/shrek.avif" alt="">
+    <img src="../public/img/sonic.jfif" alt="">
+
+  </section>
+  <footer>
+    <?php include "inc/footerIncView.php" ?>
+  </footer>
 </body>
 
 </html>

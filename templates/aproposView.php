@@ -24,6 +24,9 @@
       <p>age : 22</p>
     </div>
   </section>
+  <footer>
+    <?php include "inc/footerIncView.php" ?>
+  </footer>
 </body>
 
 </html>
