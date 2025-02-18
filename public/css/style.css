@@ -77,6 +77,7 @@ h2 {
   display: flex;
   justify-content: center;
   align-items: center;
+  margin-bottom: 20px;
 }
 .formu .form-content {
   background-color: red;
@@ -84,6 +85,18 @@ h2 {
 
 .formu .container textarea {
   resize: none;
+}
+input[type="text"],
+select,
+textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #020202;
+  border-radius: 4px;
+}
+label {
+  padding: 12px 12px 12px 0;
+  display: inline-block;
 }
 
 /* Histoire  */
@@ -97,4 +110,14 @@ h2 {
 
 .hist-img img {
   height: 250px;
+}
+
+/* Footer */
+footer {
+  padding-top: 10px;
+  background-color: beige;
+}
+footer p {
+  text-align: center;
+  font-size: 1.4em;
 }
