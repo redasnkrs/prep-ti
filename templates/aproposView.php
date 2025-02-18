@@ -19,9 +19,9 @@
   <section class="avatar">
     <div class="contener">
       <img src="../public/img/avatar.jpg" alt="c'est reda legoat">
-      <p>nom :</p>
-      <p>Prenom :</p>
-      <p>age :</p>
+      <p>nom : Dahmani</p>
+      <p>Prenom : Reda</p>
+      <p>age : 22</p>
     </div>
   </section>
 </body>
