@@ -9,7 +9,7 @@
 
 <body>
   <nav>
-    <?php include "../templates/inc/menuIncView.php" ?>
+    <?php include "inc/menuIncView.php" ?>
   </nav>
 </body>
 
